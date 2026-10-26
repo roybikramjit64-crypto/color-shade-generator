@@ -10,6 +10,11 @@ Designed to solve common color theory issues (such as extreme tints washing out 
 
 ---
 
+### Live Demo
+https://21-shades-of-color.netlify.app
+
+---
+
 ## ✨ Features
 
 * **Balanced 21-Card Grid:** Displays a precise spectrum of 21 color steps split around your base color (10 lighter tints, exact anchor base, 10 deeper shades).
